@@ -1,0 +1,636 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/meancode/Documents/GIT/crat-elgg"
+	],
+	"file_history":
+	[
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/inc_head.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/inc_footer_scripts.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/account.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/cannot-connect.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/email-template-account-confirmation.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/email-template-account-confirmation.txt",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/email-template-change-password-force.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/email-template-change-password-force.txt",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/email-template-change-password.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/email-template-change-password.txt",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/email-template-details-changed.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/email-template-details-changed.txt",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/email-template-welcome.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/email-template-welcome.txt",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/email-template.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/features.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/inc_email_footer.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/verify.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/verifycode.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/account-change-password.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/account-email-lock.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/ManageUI/Infrastructure/Controllers/ConcreteAccountController.php",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/ManageUI/Views/base.twig.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/ManageUI/Views/Home/Accounts/Authenticated/base.twig.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/ManageUI/Views/Home/Accounts/Authenticated/Profiles/Overview/overview.twig.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/ManageUI/Views/Home/Accounts/create.twig.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/ManageUI/Views/Home/home.twig.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/README.md",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/index_horizontal_menu.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_ajax.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_blank_page.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_boxed_page.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_disabled_menu.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_ecommerce_index.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_fontawesome_icons.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_full_height_content.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_full_height_portlet.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_glyphicons.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_horizontal_menu1.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_horizontal_menu2.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_horizontal_sidebar_menu.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_language_bar.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_search_on_header1.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_search_on_header2.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_sidebar_closed.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_sidebar_fixed.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_sidebar_reversed.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_sidebar_search_option1.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/layout_sidebar_search_option2.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/login.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/login_soft.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/maps_google.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/maps_vector.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/page_about.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/page_blog.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/page_blog_item.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/page_calendar.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/page_coming_soon.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/page_contact.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/page_news.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/page_news_item.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/page_portfolio.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/page_timeline.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/portlet_ajax.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/portlet_draggable.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/portlet_general.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/quick_sidebar_on_boxed_layout.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/quick_sidebar_over_content.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/quick_sidebar_over_content_transparent.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/quick_sidebar_push_content.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/quick_sidebar_push_page.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/table_advanced.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/table_ajax.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/table_basic.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/table_editable.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/table_managed.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/table_responsive.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_alert_dialog_api.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_blockui.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_buttons.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_colors.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_datepaginator.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_extended_modals.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_general.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_icons.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_idle_timeout.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_modals.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_nestable.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_notific8.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_page_progress_style_1.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_page_progress_style_2.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_page_progress_style_3.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_page_progress_style_4.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_session_timeout.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_tabs_accordions_navs.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_tiles.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_toastr.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_tree.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ui_typography.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/charts.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/components_dropdowns.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/components_editors.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/components_form_tools.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/components_formhelper.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/components_ion_sliders.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/components_jqueryui_sliders.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/components_knob_dials.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/components_noui_sliders.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/components_pickers.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ecommerce_index.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ecommerce_orders.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ecommerce_orders_view.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ecommerce_products.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/ecommerce_products_edit.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/extra_404_option1.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/extra_404_option2.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/extra_404_option3.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/extra_500_option1.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/extra_500_option2.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/extra_faq.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/extra_invoice.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/extra_lock.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/extra_lock_error.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/extra_pricing_table.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/extra_search.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/form_controls.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/form_dropzone.html",
+		"/Users/meancode/Documents/GIT/manage.juicyads.com/demo/form_editable.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/meancode/Documents/CRAT/elgg-1.10.1",
+			"/Users/meancode/Documents/GIT/manage.juicyads.com/",
+			"/Users/meancode/Documents/GIT/manage.juicyads.com/demo",
+			"/Users/meancode/Documents/GIT/static.juicyads.com",
+			"<open files>",
+			"",
+			"<open files>",
+			"/Users/meancode/Documents/GIT/static.juicyads.com"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".elgg-heading-site",
+			"Jay Van Ginneken",
+			"http://help.dev.juicyads.com/",
+			"http://static.dev.juicyads.com/",
+			"http://fonts.googleapis.com/",
+			"http://static.dev.juicyads.com/",
+			"568",
+			"handlePaymentForm",
+			"tabbable-full-width",
+			"sidebar-toggler",
+			"mask_currency",
+			"cookie",
+			"createaccount",
+			"res.message",
+			"Please choose another one",
+			"is not available. Please choose another one.",
+			"bg-default",
+			"progress-bar-info",
+			"@font-face",
+			"phoneInfo",
+			"form-group",
+			"register_phone_error",
+			"verify",
+			"verify-code",
+			"password",
+			".login .content .input-icon",
+			"solid 2px #0976bc",
+			"password_strength",
+			"register_password",
+			"max-width",
+			"recaptcha_only_if_incorrect_sol",
+			"account-email-confirmed",
+			".numeric",
+			"form-group",
+			"invalidHandler",
+			"alert-danger",
+			"placeholder-no-fix",
+			"register-form",
+			"login",
+			"account-password-recovery",
+			"skype",
+			"cn",
+			"select2_sample3",
+			"Select a Country First",
+			"United States",
+			"s_a",
+			"countryList",
+			"country_arr",
+			"print_country",
+			"print_state",
+			"s_a",
+			"print_country",
+			"country",
+			"print_state",
+			"updateStates",
+			"Select a State/Province",
+			".login .content",
+			"Verify",
+			"handleAccount",
+			"AddressCounty",
+			"function format(state)",
+			"(M)",
+			"MailingAddressCounty",
+			"select2-container",
+			"Column 9",
+			"-open",
+			"-webkit-gradient",
+			"-webkit-gradient(linear, left bottom, left top, color-stop(0, #eee), color-stop(0.5, #fff))",
+			".select2-container",
+			"handleRegister",
+			"assets",
+			"select2_sample4",
+			"assets",
+			"path",
+			"assets",
+			"flag",
+			"DOC:",
+			"site_activities",
+			".png",
+			"holder.js",
+			"holder",
+			"AD",
+			"Lock Screen",
+			".js",
+			"tab__orange",
+			"tab_orange",
+			"tab_",
+			"clip",
+			".bfh-datepicker-calendar",
+			"bfh-datepicker-calendar>table.calendar>tbody>tr>td.today",
+			"PAGE CONTENT",
+			"Form Tools",
+			"forget-form",
+			"alert-danger",
+			"register-form",
+			"form ",
+			"Your Password",
+			"Please accept TNC first",
+			"Default input",
+			"btn blue",
+			"blue",
+			"Sign Up",
+			"username",
+			"Circle Dials",
+			"in-range",
+			"dp-selected",
+			".css",
+			"juicyads",
+			"u.",
+			"U.S.",
+			"198fd3",
+			"data-original-title",
+			"toggler",
+			":hover",
+			"juicyads",
+			"background-image",
+			"(../",
+			"juicyads",
+			"hidden-",
+			"ecommerce",
+			"Mega",
+			"selected",
+			"border-right",
+			"logo",
+			"page-footer-inner",
+			"4276a4",
+			"<span class=\"badge",
+			"full"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://help.juicyads.com/",
+			"https://static.juicyads.com/",
+			"https://fonts.googleapis.com/",
+			"https://static.juicyads.com/",
+			"Select a State/Province",
+			"stateList",
+			"countryList",
+			"printCountry",
+			"printState",
+			"Select a Country First",
+			"AddressCountry",
+			"btn green"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "crat-elgg.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inc",
+				"demo/inc_head.php"
+			],
+			[
+				"inc_foot",
+				"demo/inc_footer_text.php"
+			],
+			[
+				"acc",
+				"demo/account.php"
+			],
+			[
+				"accoun",
+				"demo/account.php"
+			],
+			[
+				"account",
+				"demo/account.php"
+			],
+			[
+				"inc_h",
+				"demo/inc_head.php"
+			],
+			[
+				"reque",
+				"admin/pages/scripts/request-payment.js"
+			],
+			[
+				"component-f",
+				"admin/pages/scripts/components-form-tools.js"
+			],
+			[
+				"omponents-f",
+				"admin/pages/scripts/components-form-tools.js"
+			],
+			[
+				"font-awes",
+				"global/plugins/font-awesome/css/font-awesome.min.css"
+			],
+			[
+				"font",
+				"global/plugins/font-awesome/css/font-awesome.css"
+			],
+			[
+				"just",
+				"global/plugins/just-vector/just-vector.css"
+			],
+			[
+				"stylesh",
+				"global/plugins/just-vector/stylesheet.css"
+			],
+			[
+				"compon",
+				"global/css/components.css"
+			],
+			[
+				"impor",
+				"admin/pages/scripts/import.js"
+			],
+			[
+				"registe",
+				"admin/pages/scripts/register.js"
+			],
+			[
+				"component-form",
+				"admin/pages/scripts/components-form-tools.js"
+			],
+			[
+				"register",
+				"admin/pages/scripts/register.js"
+			],
+			[
+				"components-form-tools",
+				"admin/pages/scripts/components-form-tools.js"
+			],
+			[
+				"login",
+				"admin/pages/scripts/login.js"
+			],
+			[
+				"changep",
+				"admin/pages/scripts/changepassword.old.js"
+			],
+			[
+				"change",
+				"admin/pages/scripts/changepassword.js"
+			],
+			[
+				"form",
+				"admin/pages/scripts/form-validation.js"
+			],
+			[
+				"verify",
+				"admin/pages/scripts/verify.js"
+			],
+			[
+				"form-va",
+				"admin/pages/scripts/form-validation.js"
+			],
+			[
+				"zxcvbn",
+				"global/plugins/jquery-pwstrength-bootstrap/dist/zxcvbn-async.js"
+			],
+			[
+				"componen",
+				"admin/pages/scripts/components-dropdowns.js"
+			],
+			[
+				"veri",
+				"admin/pages/scripts/verify.js"
+			],
+			[
+				"font-sa",
+				"global/plugins/font-awesome/css/font-awesome.css"
+			],
+			[
+				"state",
+				"admin/pages/scripts/states-select.js"
+			],
+			[
+				"component-d",
+				"admin/pages/scripts/components-dropdowns.js"
+			],
+			[
+				"states",
+				"admin/pages/scripts/states-select.js"
+			],
+			[
+				"login.css",
+				"admin/pages/css/login.css"
+			],
+			[
+				"prof",
+				"admin/pages/css/profile.css"
+			],
+			[
+				"compone",
+				"admin/pages/scripts/components-dropdowns.js"
+			],
+			[
+				"plugin",
+				"global/css/plugins.css"
+			],
+			[
+				"",
+				"Find Results"
+			],
+			[
+				"custom",
+				"admin/layout/css/custom.css"
+			],
+			[
+				"lock",
+				"extra_lock.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"ui_colors",
+				"ui_colors.html"
+			],
+			[
+				"ui_colo",
+				"ui_colors.html"
+			],
+			[
+				"ui_col",
+				"ui_colors.html"
+			],
+			[
+				"componets.css",
+				"assets/global/css/components.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Sublime/JuicyAds Static.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 367.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
